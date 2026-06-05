@@ -55,6 +55,8 @@ I build software products — from discovery platforms and educational tools to 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
 <img src="https://img.shields.io/badge/SSG-6366f1?style=flat-square" alt="SSG">
+<img src="https://img.shields.io/github/stars/kaizokugws/KaizokuGWS?style=flat-square&color=4fd1ff" alt="Stars">
+<img src="https://img.shields.io/github/forks/kaizokugws/KaizokuGWS?style=flat-square&color=6366f1" alt="Forks">
 
 • Global search with tag/year/sort filtering
 • Franchise grouping & 3D trending carousel
@@ -90,6 +92,8 @@ I build software products — from discovery platforms and educational tools to 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Accessibility-6366f1?style=flat-square" alt="Accessibility">
+<img src="https://img.shields.io/github/stars/shreyasgws/IUPAC-Naming-Tutor-GWS?style=flat-square&color=4fd1ff" alt="Stars">
+<img src="https://img.shields.io/github/forks/shreyasgws/IUPAC-Naming-Tutor-GWS?style=flat-square&color=6366f1" alt="Forks">
 
 • MCQ mode with 200+ questions
 • Manual naming with validation
@@ -125,6 +129,8 @@ I build software products — from discovery platforms and educational tools to 
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/Monaco-6366f1?style=flat-square" alt="Monaco">
+<img src="https://img.shields.io/github/stars/shreyasgws/Gws-Compiler-Interpreter?style=flat-square&color=4fd1ff" alt="Stars">
+<img src="https://img.shields.io/github/forks/shreyasgws/Gws-Compiler-Interpreter?style=flat-square&color=6366f1" alt="Forks">
 
 • Monaco Editor with syntax highlighting
 • Multi-language: Python, C++, JavaScript, Java, C
@@ -150,6 +156,8 @@ I build software products — from discovery platforms and educational tools to 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/github/stars/shreyasgws/Flow?style=flat-square&color=4fd1ff" alt="Stars">
+<img src="https://img.shields.io/github/forks/shreyasgws/Flow?style=flat-square&color=6366f1" alt="Forks">
 
 • Custom lists for study, gym, ideas, and more
 • Add tasks inside each list with tracking
