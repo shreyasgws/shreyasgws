@@ -63,14 +63,16 @@ Content discovery platform with global search, tag/year/sort filtering, franchis
 
 <table>
   <tr>
-    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/homepage.jpg" alt="Homepage" width="100%"></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/search.jpg" alt="Search" width="100%"></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/game-details.jpg" alt="Game Details" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/homepage.jpg" alt="Homepage" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/search.jpg" alt="Search" width="100%"></td>
   </tr>
   <tr>
-    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/gallery.jpg" alt="Gallery" width="100%"></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/trending.jpg" alt="Trending" width="100%"></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/mobile.jpg" alt="Mobile" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/game-details.jpg" alt="Game Details" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/gallery.jpg" alt="Gallery" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/trending.jpg" alt="Trending" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/mobile.jpg" alt="Mobile" width="100%"></td>
   </tr>
 </table>
 
