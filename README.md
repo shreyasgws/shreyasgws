@@ -147,6 +147,17 @@ Web-based code execution with Monaco Editor, multi-language support (Python, C++
 
 A private system to organize your life and future tasks. Create custom lists (study, gym, ideas, etc.), add tasks inside them, track future goals, and store everything locally in your browser. Supports import and export of tasks as `.json` files.
 
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/flow/dashboard.jpg" alt="Dashboard" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/flow/tasks.jpg" alt="Tasks" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/flow/lists.jpg" alt="Lists" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/flow/goals.jpg" alt="Goals" width="100%"></td>
+  </tr>
+</table>
+
 #### [**Source**](https://github.com/shreyasgws/Flow)
 
 <br>
