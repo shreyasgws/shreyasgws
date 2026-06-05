@@ -120,7 +120,7 @@ Custom lists, task management, and personal productivity tools. Built with Next.
 | **IUPAC Naming Tutor** | Educational SPA | **Live** · 26 commits | 200+ questions, 8 tutorials, SMILES |
 | **GWS Compiler** | Developer Tool | **Live** · 24 commits | 5 languages, Monaco, Judge0 |
 | **Flow** | Productivity App | **Active Development** | Task management, local-first |
-| **JARVIS** | Desktop AI Assistant | **Active Development** | 183/183 tests, memory, plugins |
+| **JARVIS** | Desktop AI Assistant | **Active Development** | 514/514 pass, memory, plugins |
 
 <br>
 
