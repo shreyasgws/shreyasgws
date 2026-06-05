@@ -56,7 +56,12 @@ I build software products — from discovery platforms and educational tools to 
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
 <img src="https://img.shields.io/badge/SSG-6366f1?style=flat-square" alt="SSG">
 
-Content discovery platform with global search, tag/year/sort filtering, franchise grouping, 3D trending carousel, screenshot galleries with lightbox, installation guides, system requirements tracking, favorites, and a markdown-based database — all statically generated for performance.
+• Global search with tag/year/sort filtering
+• Franchise grouping & 3D trending carousel
+• Screenshot galleries with lightbox
+• Installation guides & system requirements tracking
+• Favorites & markdown-based database
+• Fully static generated for performance
 
 <table>
   <tr>
@@ -86,7 +91,12 @@ Content discovery platform with global search, tag/year/sort filtering, franchis
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Accessibility-6366f1?style=flat-square" alt="Accessibility">
 
-SPA for learning IUPAC nomenclature. MCQ mode (200+ questions), manual naming with validation, 8-unit tutorials, timed mock tests (6 sections), 17-topic revision notes, SMILES molecular rendering, localStorage persistence, ARIA accessibility, and dark theme with particle effects.
+• MCQ mode with 200+ questions
+• Manual naming with validation
+• 8-unit tutorials & 17-topic revision notes
+• Timed mock tests across 6 sections
+• SMILES molecular rendering
+• localStorage persistence, ARIA accessibility, dark theme with particles
 
 <table>
   <tr>
@@ -116,7 +126,11 @@ SPA for learning IUPAC nomenclature. MCQ mode (200+ questions), manual naming wi
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/Monaco-6366f1?style=flat-square" alt="Monaco">
 
-Web-based code execution with Monaco Editor, multi-language support (Python, C++, JavaScript, Java, C), Judge0 API integration, real-time output, keyboard shortcuts, localStorage code persistence, and a dark glassmorphism UI.
+• Monaco Editor with syntax highlighting
+• Multi-language: Python, C++, JavaScript, Java, C
+• Judge0 API for real-time code execution
+• Keyboard shortcuts & localStorage persistence
+• Dark glassmorphism UI
 
 <table>
   <tr>
@@ -137,7 +151,11 @@ Web-based code execution with Monaco Editor, multi-language support (Python, C++
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 
-A private system to organize your life and future tasks. Create custom lists (study, gym, ideas, etc.), add tasks inside them, track future goals, and store everything locally in your browser. Supports import and export of tasks as `.json` files.
+• Custom lists for study, gym, ideas, and more
+• Add tasks inside each list with tracking
+• Future goal planning & timeline view
+• Import/export tasks as `.json` files
+• Everything stored locally in your browser
 
 <table>
   <tr>
