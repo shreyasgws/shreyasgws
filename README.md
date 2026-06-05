@@ -15,7 +15,7 @@
   <a href="https://github.com/shreyasgws/Flow"><code>Flow</code></a>
 </p>
 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='1'%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%230d1117' stop-opacity='0'/%3E%3Cstop offset='50%25' stop-color='%234fd1ff' stop-opacity='0.5'/%3E%3Cstop offset='100%25' stop-color='%230d1117' stop-opacity='0'/%3E%3C/linearGradient%3E%3Crect width='100%25' height='1' fill='url(%23g)'/%3E%3C/svg%3E" width="100%">
+<br>
 
 <br>
 
@@ -46,9 +46,6 @@ I build software products — from discovery platforms and educational tools to 
 ## Featured Work
 
 <br>
-
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='1'%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%230d1117' stop-opacity='0'/%3E%3Cstop offset='50%25' stop-color='%234fd1ff' stop-opacity='0.5'/%3E%3Cstop offset='100%25' stop-color='%230d1117' stop-opacity='0'/%3E%3C/linearGradient%3E%3Crect width='100%25' height='1' fill='url(%23g)'/%3E%3C/svg%3E" width="100%">
-
 <br>
 
 ## 01. <a href="https://github.com/kaizokugws/KaizokuGWS">Kaizoku-GWS</a>
@@ -79,9 +76,6 @@ Content discovery platform with global search, tag/year/sort filtering, franchis
 #### [**Source**](https://github.com/kaizokugws/KaizokuGWS) · [**Live Site**](https://kaizoku-gws.vercel.app) · 176+ commits
 
 <br>
-
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='1'%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%230d1117' stop-opacity='0'/%3E%3Cstop offset='50%25' stop-color='%236366f1' stop-opacity='0.5'/%3E%3Cstop offset='100%25' stop-color='%230d1117' stop-opacity='0'/%3E%3C/linearGradient%3E%3Crect width='100%25' height='1' fill='url(%23g)'/%3E%3C/svg%3E" width="100%">
-
 <br>
 
 ## 02. <a href="https://github.com/shreyasgws/IUPAC-Naming-Tutor-GWS">IUPAC Naming Tutor GWS</a>
@@ -110,9 +104,6 @@ SPA for learning IUPAC nomenclature. MCQ mode (200+ questions), manual naming wi
 #### [**Source**](https://github.com/shreyasgws/IUPAC-Naming-Tutor-GWS) · [**Live Site**](https://iupac-naming-tutor-gws.vercel.app) · 26 commits
 
 <br>
-
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='1'%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%230d1117' stop-opacity='0'/%3E%3Cstop offset='50%25' stop-color='%234fd1ff' stop-opacity='0.5'/%3E%3Cstop offset='100%25' stop-color='%230d1117' stop-opacity='0'/%3E%3C/linearGradient%3E%3Crect width='100%25' height='1' fill='url(%23g)'/%3E%3C/svg%3E" width="100%">
-
 <br>
 
 ## 03. <a href="https://github.com/shreyasgws/Gws-Compiler-Interpreter">GWS Compiler Interpreter</a>
@@ -135,9 +126,6 @@ Web-based code execution with Monaco Editor, multi-language support (Python, C++
 #### [**Source**](https://github.com/shreyasgws/Gws-Compiler-Interpreter) · [**Live Site**](https://gws-compiler-interpreter.vercel.app) · 24 commits
 
 <br>
-
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='1'%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%230d1117' stop-opacity='0'/%3E%3Cstop offset='50%25' stop-color='%236366f1' stop-opacity='0.5'/%3E%3Cstop offset='100%25' stop-color='%230d1117' stop-opacity='0'/%3E%3C/linearGradient%3E%3Crect width='100%25' height='1' fill='url(%23g)'/%3E%3C/svg%3E" width="100%">
-
 <br>
 
 ## 04. <a href="https://github.com/shreyasgws/Flow">Flow</a>
@@ -223,7 +211,7 @@ Devices      Desktop · Mobile · Web
   <a href="mailto:kaizokugws@gmail.com"><b>Email</b></a>
 </p>
 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='1'%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%230d1117' stop-opacity='0'/%3E%3Cstop offset='50%25' stop-color='%234fd1ff' stop-opacity='0.5'/%3E%3Cstop offset='100%25' stop-color='%230d1117' stop-opacity='0'/%3E%3C/linearGradient%3E%3Crect width='100%25' height='1' fill='url(%23g)'/%3E%3C/svg%3E" width="100%">
+<br>
 
 <br>
 
