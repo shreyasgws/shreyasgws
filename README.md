@@ -47,7 +47,7 @@ I build software products — from discovery platforms and educational tools to 
 
 <br>
 
-### <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%234fd1ff'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E" width="18" height="18" align="top"> Kaizoku-GWS
+### <a href="https://github.com/kaizokugws/KaizokuGWS"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%234fd1ff'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E" width="18" height="18" align="top"></a> Kaizoku-GWS
 **Premium games, software, and mobile app discovery platform.**
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
@@ -63,7 +63,7 @@ Content discovery platform with global search, tag/year/sort filtering, franchis
 
 ---
 
-### <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%236366f1'%3E%3Cpath d='M12 14l9-5-9-5-9 5 9 5z'/%3E%3Cpath d='M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z'/%3E%3Cpath d='M12 14l9-5-9-5-9 5 9 5z' opacity='0.3'/%3E%3C/svg%3E" width="18" height="18" align="top"> IUPAC Naming Tutor GWS
+### <a href="https://github.com/shreyasgws/IUPAC-Naming-Tutor-GWS"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%236366f1'%3E%3Cpath d='M12 14l9-5-9-5-9 5 9 5z'/%3E%3Cpath d='M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z'/%3E%3Cpath d='M12 14l9-5-9-5-9 5 9 5z' opacity='0.3'/%3E%3C/svg%3E" width="18" height="18" align="top"></a> IUPAC Naming Tutor GWS
 **Interactive organic chemistry learning platform — no backend, fully functional SPA.**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -79,7 +79,7 @@ SPA for learning IUPAC nomenclature. MCQ mode (200+ questions), manual naming wi
 
 ---
 
-### <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%234fd1ff'%3E%3Cpath d='M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4'/%3E%3C/svg%3E" width="18" height="18" align="top"> GWS Compiler Interpreter
+### <a href="https://github.com/shreyasgws/Gws-Compiler-Interpreter"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%234fd1ff'%3E%3Cpath d='M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4'/%3E%3C/svg%3E" width="18" height="18" align="top"></a> GWS Compiler Interpreter
 **Full-stack online compiler supporting 5 language runtimes.**
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
@@ -95,7 +95,7 @@ Web-based code execution with Monaco Editor, multi-language support (Python, C++
 
 ---
 
-### <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%236366f1'%3E%3Cpath d='M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2'/%3E%3C/svg%3E" width="18" height="18" align="top"> Flow
+### <a href="https://github.com/shreyasgws/Flow"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%236366f1'%3E%3Cpath d='M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2'/%3E%3C/svg%3E" width="18" height="18" align="top"></a> Flow
 **Local-first productivity platform · Active Development**
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
