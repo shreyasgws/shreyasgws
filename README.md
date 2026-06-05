@@ -100,7 +100,7 @@ Web-based code execution with Monaco Editor, multi-language support (Python, C++
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+
 
 Custom lists, task management, and personal productivity tools. Built with Next.js and TypeScript.
 
