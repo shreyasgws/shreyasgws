@@ -7,11 +7,11 @@
 
 <p align="center">
   <a href="https://github.com/kaizokugws/KaizokuGWS"><code>Kaizoku-GWS</code></a>
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Ccircle cx='2' cy='2' r='2' fill='%234fd1ff'/%3E%3C/svg%3E" width="4" height="4">
+  ·
   <a href="https://github.com/shreyasgws/IUPAC-Naming-Tutor-GWS"><code>IUPAC Tutor</code></a>
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Ccircle cx='2' cy='2' r='2' fill='%234fd1ff'/%3E%3C/svg%3E" width="4" height="4">
+  ·
   <a href="https://github.com/shreyasgws/Gws-Compiler-Interpreter"><code>Compiler</code></a>
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Ccircle cx='2' cy='2' r='2' fill='%234fd1ff'/%3E%3C/svg%3E" width="4" height="4">
+  ·
   <a href="https://github.com/shreyasgws/Flow"><code>Flow</code></a>
 </p>
 
@@ -61,7 +61,7 @@ I build software products — from discovery platforms and educational tools to 
 
 Content discovery platform with global search, tag/year/sort filtering, franchise grouping, 3D trending carousel, screenshot galleries with lightbox, installation guides, system requirements tracking, favorites, and a markdown-based database — all statically generated for performance.
 
-#### [**Source**](https://github.com/kaizokugws/KaizokuGWS) · [**Live Site**](https://kaizokugws.com) · 176+ commits
+#### [**Source**](https://github.com/kaizokugws/KaizokuGWS) · [**Live Site**](https://kaizoku-gws.vercel.app) · 176+ commits
 
 <br>
 
@@ -172,7 +172,7 @@ Devices      Desktop · Mobile · Web
 <p align="center">
   <a href="https://github.com/shreyasgws"><b>GitHub</b></a>
   <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Ccircle cx='2' cy='2' r='2' fill='%234fd1ff'/%3E%3C/svg%3E" width="4" height="4">
-  <a href="https://kaizokugws.com"><b>Kaizoku-GWS</b></a>
+  <a href="https://kaizoku-gws.vercel.app"><b>Kaizoku-GWS</b></a>
   <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Ccircle cx='2' cy='2' r='2' fill='%234fd1ff'/%3E%3C/svg%3E" width="4" height="4">
   <a href="mailto:kaizokugws@gmail.com"><b>Email</b></a>
 </p>
