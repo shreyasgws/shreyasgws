@@ -96,15 +96,15 @@ Web-based code execution with Monaco Editor, multi-language support (Python, C++
 ---
 
 ### <a href="https://github.com/shreyasgws/Flow"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%236366f1'%3E%3Cpath d='M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2'/%3E%3C/svg%3E" width="18" height="18" align="top"> Flow</a>
-**Local-first productivity platform · Active Development**
+**Personal task and list manager for future planning.**
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 
+A private system to organize your life and future tasks. Create custom lists (study, gym, ideas, etc.), add tasks inside them, track future goals, and store everything locally in your browser. Supports import and export of tasks as `.json` files.
 
-Custom lists, task management, and personal productivity tools. Built with Next.js and TypeScript.
-
-[**Source**](https://github.com/shreyasgws/Flow) · [**Live**](https://flow-rho-roan.vercel.app)
+[**Source**](https://github.com/shreyasgws/Flow)
 
 <br>
 
