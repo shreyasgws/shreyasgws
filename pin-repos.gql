@@ -1,0 +1,6 @@
+mutation {
+  repo1: updateProfileRepository(input: {repositoryId: "R_kgDOSJaJLQ"}) { clientMutationId }
+  repo2: updateProfileRepository(input: {repositoryId: "R_kgDOR280vA"}) { clientMutationId }
+  repo3: updateProfileRepository(input: {repositoryId: "R_kgDOR9UDbg"}) { clientMutationId }
+  repo4: updateProfileRepository(input: {repositoryId: "R_kgDOSl9sDQ"}) { clientMutationId }
+}

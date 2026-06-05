@@ -1,0 +1,6 @@
+query {
+  repo1: repository(owner: "shreyasgws", name: "IUPAC-Naming-Tutor-GWS") { id, nameWithOwner }
+  repo2: repository(owner: "shreyasgws", name: "Gws-Compiler-Interpreter") { id, nameWithOwner }
+  repo3: repository(owner: "shreyasgws", name: "Flow") { id, nameWithOwner }
+  repo4: repository(owner: "kaizokugws", name: "KaizokuGWS") { id, nameWithOwner }
+}
