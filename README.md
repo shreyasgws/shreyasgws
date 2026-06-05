@@ -52,7 +52,7 @@ I build software products — from discovery platforms and educational tools to 
 <br>
 
 ## 01. <a href="https://github.com/kaizokugws/KaizokuGWS">Kaizoku-GWS</a>
-**Premium games, software, and mobile app discovery platform.**
+**Premium games, software, and mobile app download platform.**
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
