@@ -90,14 +90,16 @@ SPA for learning IUPAC nomenclature. MCQ mode (200+ questions), manual naming wi
 
 <table>
   <tr>
-    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/home-stats.jpg" alt="Home" width="100%"></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/mcq-mode.jpg" alt="MCQ Mode" width="100%"></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/manual-mode.jpg" alt="Manual Naming" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/home-stats.jpg" alt="Home" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/mcq-mode.jpg" alt="MCQ Mode" width="100%"></td>
   </tr>
   <tr>
-    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/mock-test.jpg" alt="Mock Test" width="100%"></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/tutorial.jpg" alt="Tutorial" width="100%"></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/revision-notes.jpg" alt="Revision Notes" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/manual-mode.jpg" alt="Manual Naming" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/mock-test.jpg" alt="Mock Test" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/tutorial.jpg" alt="Tutorial" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/revision-notes.jpg" alt="Revision Notes" width="100%"></td>
   </tr>
 </table>
 
