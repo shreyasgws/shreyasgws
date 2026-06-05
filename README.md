@@ -51,7 +51,7 @@ I build software products — from discovery platforms and educational tools to 
 
 <br>
 
-### 01. <a href="https://github.com/kaizokugws/KaizokuGWS">Kaizoku-GWS</a>
+## 01. <a href="https://github.com/kaizokugws/KaizokuGWS">Kaizoku-GWS</a>
 **Premium games, software, and mobile app discovery platform.**
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
@@ -69,7 +69,7 @@ Content discovery platform with global search, tag/year/sort filtering, franchis
 
 <br>
 
-### 02. <a href="https://github.com/shreyasgws/IUPAC-Naming-Tutor-GWS">IUPAC Naming Tutor GWS</a>
+## 02. <a href="https://github.com/shreyasgws/IUPAC-Naming-Tutor-GWS">IUPAC Naming Tutor GWS</a>
 **Interactive organic chemistry learning platform — no backend, fully functional SPA.**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -87,7 +87,7 @@ SPA for learning IUPAC nomenclature. MCQ mode (200+ questions), manual naming wi
 
 <br>
 
-### 03. <a href="https://github.com/shreyasgws/Gws-Compiler-Interpreter">GWS Compiler Interpreter</a>
+## 03. <a href="https://github.com/shreyasgws/Gws-Compiler-Interpreter">GWS Compiler Interpreter</a>
 **Full-stack online compiler supporting 5 language runtimes.**
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
@@ -105,7 +105,7 @@ Web-based code execution with Monaco Editor, multi-language support (Python, C++
 
 <br>
 
-### 04. <a href="https://github.com/shreyasgws/Flow">Flow</a>
+## 04. <a href="https://github.com/shreyasgws/Flow">Flow</a>
 **Personal task and list manager for future planning.**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
