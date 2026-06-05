@@ -182,5 +182,5 @@ Devices      Desktop · Mobile · Web
 <br>
 
 <p align="center">
-  <sub>Products, not tutorials. Built, not learned.</sub>
+  <sub>vibecoder · Products, not tutorials. Built, not learned.</sub>
 </p>
