@@ -61,7 +61,7 @@ I build software products — from discovery platforms and educational tools to 
 
 Content discovery platform with global search, tag/year/sort filtering, franchise grouping, 3D trending carousel, screenshot galleries with lightbox, installation guides, system requirements tracking, favorites, and a markdown-based database — all statically generated for performance.
 
-[**Source**](https://github.com/kaizokugws/KaizokuGWS) · [**Live Site**](https://kaizokugws.com) · 176+ commits
+#### [**Source**](https://github.com/kaizokugws/KaizokuGWS) · [**Live Site**](https://kaizokugws.com) · 176+ commits
 
 <br>
 
@@ -79,7 +79,7 @@ Content discovery platform with global search, tag/year/sort filtering, franchis
 
 SPA for learning IUPAC nomenclature. MCQ mode (200+ questions), manual naming with validation, 8-unit tutorials, timed mock tests (6 sections), 17-topic revision notes, SMILES molecular rendering, localStorage persistence, ARIA accessibility, and dark theme with particle effects.
 
-[**Source**](https://github.com/shreyasgws/IUPAC-Naming-Tutor-GWS) · [**Live Site**](https://iupac-naming-tutor-gws.vercel.app) · 26 commits
+#### [**Source**](https://github.com/shreyasgws/IUPAC-Naming-Tutor-GWS) · [**Live Site**](https://iupac-naming-tutor-gws.vercel.app) · 26 commits
 
 <br>
 
@@ -97,7 +97,7 @@ SPA for learning IUPAC nomenclature. MCQ mode (200+ questions), manual naming wi
 
 Web-based code execution with Monaco Editor, multi-language support (Python, C++, JavaScript, Java, C), Judge0 API integration, real-time output, keyboard shortcuts, localStorage code persistence, and a dark glassmorphism UI.
 
-[**Source**](https://github.com/shreyasgws/Gws-Compiler-Interpreter) · [**Live Site**](https://gws-compiler-interpreter.vercel.app) · 24 commits
+#### [**Source**](https://github.com/shreyasgws/Gws-Compiler-Interpreter) · [**Live Site**](https://gws-compiler-interpreter.vercel.app) · 24 commits
 
 <br>
 
@@ -114,7 +114,7 @@ Web-based code execution with Monaco Editor, multi-language support (Python, C++
 
 A private system to organize your life and future tasks. Create custom lists (study, gym, ideas, etc.), add tasks inside them, track future goals, and store everything locally in your browser. Supports import and export of tasks as `.json` files.
 
-[**Source**](https://github.com/shreyasgws/Flow)
+#### [**Source**](https://github.com/shreyasgws/Flow)
 
 <br>
 
@@ -182,5 +182,5 @@ Devices      Desktop · Mobile · Web
 <br>
 
 <p align="center">
-  <sub>vibecoder · Products, not tutorials. Built, not learned.</sub>
+  <sub>Vibecoder · Products, not tutorials. Built, not learned.</sub>
 </p>
