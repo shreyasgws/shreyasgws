@@ -134,7 +134,7 @@ Custom lists, task management, and personal productivity tools. Built with Next.
 Frontend     React · Next.js · TypeScript · Tailwind · Vite · HTML5 · CSS3
 Backend      Node.js · Express · Judge0 API
 Languages    JavaScript · TypeScript · Python
-Database     Markdown · localStorage · Supabase
+Database     Markdown · localStorage
 Devices      Desktop · Mobile · Web
 ```
 
