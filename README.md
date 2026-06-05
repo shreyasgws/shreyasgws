@@ -51,9 +51,7 @@ I build software products — from discovery platforms and educational tools to 
 
 <br>
 
-###
-
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='18' viewBox='0 0 24 18'%3E%3Crect x='0' y='0' width='24' height='18' rx='3' fill='%234fd1ff' opacity='0.15'/%3E%3Ctext x='12' y='13' text-anchor='middle' fill='%234fd1ff' font-family='system-ui,sans-serif' font-size='11' font-weight='700'%3E01%3C/text%3E%3C/svg%3E" width="24" height="18" align="top"> <a href="https://github.com/kaizokugws/KaizokuGWS"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%234fd1ff'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E" width="18" height="18" align="top"> Kaizoku-GWS</a>
+### <code style="background:%231a1a2e;color:%234fd1ff;padding:1px 6px;border-radius:3px;font-size:12px">01</code> <a href="https://github.com/kaizokugws/KaizokuGWS"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%234fd1ff'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E" width="18" height="18" align="top"> Kaizoku-GWS</a>
 **Premium games, software, and mobile app discovery platform.**
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
@@ -71,9 +69,7 @@ Content discovery platform with global search, tag/year/sort filtering, franchis
 
 <br>
 
-###
-
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='18' viewBox='0 0 24 18'%3E%3Crect x='0' y='0' width='24' height='18' rx='3' fill='%236366f1' opacity='0.15'/%3E%3Ctext x='12' y='13' text-anchor='middle' fill='%236366f1' font-family='system-ui,sans-serif' font-size='11' font-weight='700'%3E02%3C/text%3E%3C/svg%3E" width="24" height="18" align="top"> <a href="https://github.com/shreyasgws/IUPAC-Naming-Tutor-GWS"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%236366f1'%3E%3Cpath d='M12 14l9-5-9-5-9 5 9 5z'/%3E%3Cpath d='M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z'/%3E%3Cpath d='M12 14l9-5-9-5-9 5 9 5z' opacity='0.3'/%3E%3C/svg%3E" width="18" height="18" align="top"> IUPAC Naming Tutor GWS</a>
+### <code style="background:%231a1a2e;color:%236366f1;padding:1px 6px;border-radius:3px;font-size:12px">02</code> <a href="https://github.com/shreyasgws/IUPAC-Naming-Tutor-GWS"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%236366f1'%3E%3Cpath d='M12 14l9-5-9-5-9 5 9 5z'/%3E%3Cpath d='M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z'/%3E%3Cpath d='M12 14l9-5-9-5-9 5 9 5z' opacity='0.3'/%3E%3C/svg%3E" width="18" height="18" align="top"> IUPAC Naming Tutor GWS</a>
 **Interactive organic chemistry learning platform — no backend, fully functional SPA.**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -91,9 +87,7 @@ SPA for learning IUPAC nomenclature. MCQ mode (200+ questions), manual naming wi
 
 <br>
 
-###
-
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='18' viewBox='0 0 24 18'%3E%3Crect x='0' y='0' width='24' height='18' rx='3' fill='%234fd1ff' opacity='0.15'/%3E%3Ctext x='12' y='13' text-anchor='middle' fill='%234fd1ff' font-family='system-ui,sans-serif' font-size='11' font-weight='700'%3E03%3C/text%3E%3C/svg%3E" width="24" height="18" align="top"> <a href="https://github.com/shreyasgws/Gws-Compiler-Interpreter"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%234fd1ff'%3E%3Cpath d='M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4'/%3E%3C/svg%3E" width="18" height="18" align="top"> GWS Compiler Interpreter</a>
+### <code style="background:%231a1a2e;color:%234fd1ff;padding:1px 6px;border-radius:3px;font-size:12px">03</code> <a href="https://github.com/shreyasgws/Gws-Compiler-Interpreter"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%234fd1ff'%3E%3Cpath d='M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4'/%3E%3C/svg%3E" width="18" height="18" align="top"> GWS Compiler Interpreter</a>
 **Full-stack online compiler supporting 5 language runtimes.**
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
@@ -111,9 +105,7 @@ Web-based code execution with Monaco Editor, multi-language support (Python, C++
 
 <br>
 
-###
-
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='18' viewBox='0 0 24 18'%3E%3Crect x='0' y='0' width='24' height='18' rx='3' fill='%236366f1' opacity='0.15'/%3E%3Ctext x='12' y='13' text-anchor='middle' fill='%236366f1' font-family='system-ui,sans-serif' font-size='11' font-weight='700'%3E04%3C/text%3E%3C/svg%3E" width="24" height="18" align="top"> <a href="https://github.com/shreyasgws/Flow"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%236366f1'%3E%3Cpath d='M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2'/%3E%3C/svg%3E" width="18" height="18" align="top"> Flow</a>
+### <code style="background:%231a1a2e;color:%236366f1;padding:1px 6px;border-radius:3px;font-size:12px">04</code> <a href="https://github.com/shreyasgws/Flow"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='%236366f1'%3E%3Cpath d='M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2'/%3E%3C/svg%3E" width="18" height="18" align="top"> Flow</a>
 **Personal task and list manager for future planning.**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
