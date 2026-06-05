@@ -61,6 +61,19 @@ I build software products — from discovery platforms and educational tools to 
 
 Content discovery platform with global search, tag/year/sort filtering, franchise grouping, 3D trending carousel, screenshot galleries with lightbox, installation guides, system requirements tracking, favorites, and a markdown-based database — all statically generated for performance.
 
+<table>
+  <tr>
+    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/homepage.jpg" alt="Homepage" width="100%"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/search.jpg" alt="Search" width="100%"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/game-details.jpg" alt="Game Details" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/gallery.jpg" alt="Gallery" width="100%"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/trending.jpg" alt="Trending" width="100%"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/kaizoku/mobile.jpg" alt="Mobile" width="100%"></td>
+  </tr>
+</table>
+
 #### [**Source**](https://github.com/kaizokugws/KaizokuGWS) · [**Live Site**](https://kaizoku-gws.vercel.app) · 176+ commits
 
 <br>
@@ -79,6 +92,19 @@ Content discovery platform with global search, tag/year/sort filtering, franchis
 
 SPA for learning IUPAC nomenclature. MCQ mode (200+ questions), manual naming with validation, 8-unit tutorials, timed mock tests (6 sections), 17-topic revision notes, SMILES molecular rendering, localStorage persistence, ARIA accessibility, and dark theme with particle effects.
 
+<table>
+  <tr>
+    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/home-stats.jpg" alt="Home" width="100%"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/mcq-mode.jpg" alt="MCQ Mode" width="100%"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/manual-mode.jpg" alt="Manual Naming" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/mock-test.jpg" alt="Mock Test" width="100%"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/tutorial.jpg" alt="Tutorial" width="100%"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/revision-notes.jpg" alt="Revision Notes" width="100%"></td>
+  </tr>
+</table>
+
 #### [**Source**](https://github.com/shreyasgws/IUPAC-Naming-Tutor-GWS) · [**Live Site**](https://iupac-naming-tutor-gws.vercel.app) · 26 commits
 
 <br>
@@ -96,6 +122,13 @@ SPA for learning IUPAC nomenclature. MCQ mode (200+ questions), manual naming wi
 <img src="https://img.shields.io/badge/Monaco-6366f1?style=flat-square" alt="Monaco">
 
 Web-based code execution with Monaco Editor, multi-language support (Python, C++, JavaScript, Java, C), Judge0 API integration, real-time output, keyboard shortcuts, localStorage code persistence, and a dark glassmorphism UI.
+
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/compiler/editor.jpg" alt="Editor" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/compiler/output.jpg" alt="Output" width="100%"></td>
+  </tr>
+</table>
 
 #### [**Source**](https://github.com/shreyasgws/Gws-Compiler-Interpreter) · [**Live Site**](https://gws-compiler-interpreter.vercel.app) · 24 commits
 
