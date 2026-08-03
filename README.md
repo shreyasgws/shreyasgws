@@ -268,7 +268,7 @@ Devices      Desktop · Mobile · Web
 <p align="center">
   <a href="https://github.com/shreyasgws"><b>GitHub</b></a>
   <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Ccircle cx='2' cy='2' r='2' fill='%234fd1ff'/%3E%3C/svg%3E" width="4" height="4">
-  <a href="https://kaizoku-gws.vercel.app"><b>Kaizoku-GWS</b></a>
+  <a href="https://www.instagram.com/_shreyasgws_"><b>Instagram</b></a>
   <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Ccircle cx='2' cy='2' r='2' fill='%234fd1ff'/%3E%3C/svg%3E" width="4" height="4">
   <a href="mailto:kaizokugws@gmail.com"><b>Email</b></a>
 </p>
