@@ -10,6 +10,8 @@
   <a href="https://github.com/shreyasgws/Gws-Compiler-Interpreter"><code>Compiler</code></a>
   ·
   <a href="https://github.com/shreyasgws/Flow"><code>Flow</code></a>
+  ·
+  <a href="https://github.com/shreyasgws/YT-Analysis"><code>YT Analysis</code></a>
 </p>
 
 <br>
@@ -177,6 +179,39 @@ I build software products — from discovery platforms and educational tools to 
 
 <br>
 
+## 05. <a href="https://github.com/shreyasgws/YT-Analysis">YT Analysis</a>
+**Fast, full-featured YouTube transcript viewer with local, private AI summarization.**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/Ollama-6366f1?style=flat-square" alt="Ollama">
+<img src="https://img.shields.io/github/stars/shreyasgws/YT-Analysis?style=flat-square&color=4fd1ff" alt="Stars">
+<img src="https://img.shields.io/github/forks/shreyasgws/YT-Analysis?style=flat-square&color=6366f1" alt="Forks">
+
+• Full captions for any video — even 8-hour videos — in seconds
+• Timestamped, sectioned study notes from your own Ollama model
+• Virtualized scrolling & instant search within transcripts
+• Export transcripts and summaries
+• Private by design — nothing leaves your machine
+
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/yt-analysis/transcript-1.jpg" alt="YT Analysis 1" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/yt-analysis/transcript-2.jpg" alt="YT Analysis 2" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/yt-analysis/transcript-3.jpg" alt="YT Analysis 3" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/yt-analysis/transcript-4.jpg" alt="YT Analysis 4" width="100%"></td>
+  </tr>
+</table>
+
+#### [**Source**](https://github.com/shreyasgws/YT-Analysis)
+
+<br>
+
 ---
 
 ## Building, Not Just Learning
@@ -189,6 +224,7 @@ I build software products — from discovery platforms and educational tools to 
 | **IUPAC Naming Tutor** | Educational SPA | **Live** · 26 commits | 200+ questions, 8 tutorials, SMILES |
 | **GWS Compiler** | Developer Tool | **Live** · 24 commits | 5 languages, Monaco, Judge0 |
 | **Flow** | Productivity App | **Active Development** | Task management, local-first |
+| **YT Analysis** | Developer Tool | **Live** | Transcript viewer, local AI summarization |
 | **JARVIS** | Desktop AI Assistant | **Active Development** | 514/514 pass, memory, plugins |
 
 <br>
@@ -201,7 +237,7 @@ I build software products — from discovery platforms and educational tools to 
 
 ```
 Frontend     React · Next.js · TypeScript · Tailwind · Vite · HTML5 · CSS3
-Backend      Node.js · Express · Judge0 API
+Backend      Node.js · Express · Judge0 API · Ollama
 Languages    JavaScript · TypeScript · Python
 Database     Markdown · localStorage
 Devices      Desktop · Mobile · Web
