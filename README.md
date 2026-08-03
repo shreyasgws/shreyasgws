@@ -149,37 +149,7 @@ I build software products — from discovery platforms and educational tools to 
 <br>
 <br>
 
-## 04. <a href="https://github.com/shreyasgws/Flow">Flow</a>
-**Personal task and list manager for future planning.**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/github/stars/shreyasgws/Flow?style=flat-square&color=4fd1ff" alt="Stars">
-<img src="https://img.shields.io/github/forks/shreyasgws/Flow?style=flat-square&color=6366f1" alt="Forks">
-
-• Custom lists for study, gym, ideas, and more
-• Add tasks inside each list with tracking
-• Future goal planning & timeline view
-• Import/export tasks as `.json` files
-• Everything stored locally in your browser
-
-<table>
-  <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/flow/dashboard.jpg" alt="Dashboard" width="100%"></td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/flow/tasks.jpg" alt="Tasks" width="100%"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/flow/lists.jpg" alt="Lists" width="100%"></td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/flow/goals.jpg" alt="Goals" width="100%"></td>
-  </tr>
-</table>
-
-#### [**Source**](https://github.com/shreyasgws/Flow)
-
-<br>
-
-## 05. <a href="https://github.com/shreyasgws/YT-Analysis">YT Analysis</a>
+## 04. <a href="https://github.com/shreyasgws/YT-Analysis">YT Analysis</a>
 **Fast, full-featured YouTube transcript viewer with local, private AI summarization.**
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
@@ -211,6 +181,37 @@ I build software products — from discovery platforms and educational tools to 
 #### [**Source**](https://github.com/shreyasgws/YT-Analysis)
 
 <br>
+<br>
+
+## 05. <a href="https://github.com/shreyasgws/Flow">Flow</a>
+**Personal task and list manager for future planning.**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/github/stars/shreyasgws/Flow?style=flat-square&color=4fd1ff" alt="Stars">
+<img src="https://img.shields.io/github/forks/shreyasgws/Flow?style=flat-square&color=6366f1" alt="Forks">
+
+• Custom lists for study, gym, ideas, and more
+• Add tasks inside each list with tracking
+• Future goal planning & timeline view
+• Import/export tasks as `.json` files
+• Everything stored locally in your browser
+
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/flow/dashboard.jpg" alt="Dashboard" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/flow/tasks.jpg" alt="Tasks" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/flow/lists.jpg" alt="Lists" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/flow/goals.jpg" alt="Goals" width="100%"></td>
+  </tr>
+</table>
+
+#### [**Source**](https://github.com/shreyasgws/Flow)
+
+<br>
 
 ---
 
@@ -223,8 +224,8 @@ I build software products — from discovery platforms and educational tools to 
 | **Kaizoku-GWS** | Discovery Platform | **Live** · 176+ commits | SSG, markdown DB, full-text search |
 | **IUPAC Naming Tutor** | Educational SPA | **Live** · 26 commits | 200+ questions, 8 tutorials, SMILES |
 | **GWS Compiler** | Developer Tool | **Live** · 24 commits | 5 languages, Monaco, Judge0 |
-| **Flow** | Productivity App | **Active Development** | Task management, local-first |
 | **YT Analysis** | Developer Tool | **Live** | Transcript viewer, local AI summarization |
+| **Flow** | Productivity App | **Active Development** | Task management, local-first |
 | **JARVIS** | Desktop AI Assistant | **Active Development** | 514/514 pass, memory, plugins |
 
 <br>
