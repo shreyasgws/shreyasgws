@@ -103,7 +103,7 @@ I build software products — from discovery platforms and educational tools to 
 
 <table>
   <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/home-stats.jpg" alt="Home" width="100%"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/home-new.jpg" alt="Home" width="100%"></td>
     <td width="50%"><img src="https://raw.githubusercontent.com/shreyasgws/shreyasgws/main/assets/screenshots/iupac/mcq-mode.jpg" alt="MCQ Mode" width="100%"></td>
   </tr>
   <tr>
